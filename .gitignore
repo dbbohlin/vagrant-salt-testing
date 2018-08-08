@@ -1,0 +1,14 @@
+
+.idea/*
+.vagrant/*
+basic/*
+*.rpm
+/saltstack/.idea/
+
+*.gz
+
+*.zip
+
+*.parcel
+
+*.jar
